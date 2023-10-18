@@ -1,5 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Notes](Embeddings/README.md)
+* [Word Tokenization](Embeddings/README.md)
+  * [BOW](Embeddings/bow.md)
 * [Notes](Introduction/README.md)
