@@ -14,3 +14,5 @@
   * [Basic Terminologies](text-pre-processing/basic-terminologies.md)
   * [Pre-Processing Steps](text-pre-processing/pre-processing-steps.md)
   * [One Hot Encoding](text-pre-processing/one-hot-encoding.md)
+  * [Bag of words](text-pre-processing/bag-of-words.md)
+  * [N-grams](text-pre-processing/n-grams.md)
