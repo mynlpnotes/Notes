@@ -11,3 +11,6 @@
   * [Stopwords](text-pre-processing/stopwords.md)
   * [Stemming](text-pre-processing/stemming.md)
   * [Lemmatization](text-pre-processing/lemmatization.md)
+  * [Basic Terminologies](text-pre-processing/basic-terminologies.md)
+  * [Pre-Processing Steps](text-pre-processing/pre-processing-steps.md)
+  * [One Hot Encoding](text-pre-processing/one-hot-encoding.md)
