@@ -30,4 +30,4 @@ cv.vocabulary_ --> to see all the words and their occurences
 X[0].toarray() --> to see the BOW for the 1st sentence
 ```
 
-{% @github-files/github-code-block url="https://github.com/hiteshbwankhede/NLPCodes/blob/main/Text%20Preprocessing.ipynb" %}
+[https://github.com/hiteshbwankhede/NLPCodes/blob/main/Text%20Preprocessing.ipynb](https://github.com/hiteshbwankhede/NLPCodes/blob/main/Text%20Preprocessing.ipynb)
