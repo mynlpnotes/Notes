@@ -16,3 +16,4 @@
   * [One Hot Encoding](text-pre-processing/one-hot-encoding.md)
   * [Bag of words](text-pre-processing/bag-of-words.md)
   * [N-grams](text-pre-processing/n-grams.md)
+  * [Code](text-pre-processing/code.md)
