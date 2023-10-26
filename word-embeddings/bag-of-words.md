@@ -41,3 +41,10 @@ The order of the features will be based on the frequency
 |           | Ordering of the words gets changed   |
 |           | Not able to capture semantic meaning |
 
+
+
+* The food is good
+* The food is not good
+* If we remove stopwords and then do BOW then if we calculate the distance between the matrix for the 2 sentences then it will be almost same
+* So there is no semantic value
+* Since there is no semantic value, each word is given equal importance

@@ -25,9 +25,15 @@ do stemming
 # Bag of words
 from sklearn.feature_extraction.text import CountVectorizer
 cv = CountVectorizer()
+# can add parameter ngram_range = (1,3)
 X = cv.fit_transform(corpus)
 cv.vocabulary_ --> to see all the words and their occurences
 X[0].toarray() --> to see the BOW for the 1st sentence
+
+# Tf-IDF:
+from sklearn.feature_extraction import TfidfVectorizer
+cv = TfidfVectorizer()
+X = cv.fit_transform(corpus)
 ```
 
 [https://github.com/hiteshbwankhede/NLPCodes/blob/main/Text%20Preprocessing.ipynb](https://github.com/hiteshbwankhede/NLPCodes/blob/main/Text%20Preprocessing.ipynb)
