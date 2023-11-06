@@ -21,6 +21,7 @@
   * [CBOW](word-embeddings/cbow.md)
   * [AvgWord2Vec](word-embeddings/avgword2vec.md)
   * [Code](word-embeddings/code.md)
+  * [Skip Grams](word-embeddings/skip-grams.md)
 * [Similarity Measures](similarity-measures/README.md)
   * [Jaccard Similarity](similarity-measures/jaccard-similarity.md)
   * [Euclidean Distance](similarity-measures/euclidean-distance.md)
