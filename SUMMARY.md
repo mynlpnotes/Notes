@@ -19,6 +19,8 @@
   * [TF-IDF](word-embeddings/tf-idf.md)
   * [Word2Vec](word-embeddings/word2vec.md)
   * [CBOW](word-embeddings/cbow.md)
+  * [AvgWord2Vec](word-embeddings/avgword2vec.md)
+  * [Code](word-embeddings/code.md)
 * [Similarity Measures](similarity-measures/README.md)
   * [Jaccard Similarity](similarity-measures/jaccard-similarity.md)
   * [Euclidean Distance](similarity-measures/euclidean-distance.md)

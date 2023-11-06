@@ -12,10 +12,10 @@
 * Output is sent back to NN
 *
 
-    <figure><img src="../.gitbook/assets/image.png" alt="" width="327"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt="" width="327"><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * Output is given to the next timestamp of NN
 *
 
