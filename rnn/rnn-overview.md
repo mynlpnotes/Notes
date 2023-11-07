@@ -6,6 +6,7 @@
 * Same applies for language translate, here also sequence and grammar is very important
 * Text generation, for completion of sentence&#x20;
 * For such tasks we need DL techniques like RNN, LSTM , RNN, Transformers and BERT
+* RNN is also used for time series data
 
 **Basic architecture of RNN:**
 

@@ -30,4 +30,5 @@
   * [RNN Overview](rnn/rnn-overview.md)
   * [Data passing to RNN](rnn/data-passing-to-rnn.md)
   * [Types of RNN](rnn/types-of-rnn.md)
+  * [Forward Propagation](rnn/forward-propagation.md)
 * [Interview Questions](interview-questions.md)
