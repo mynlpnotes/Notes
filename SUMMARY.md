@@ -28,4 +28,6 @@
   * [Cosine Similarity](similarity-measures/cosine-similarity.md)
 * [RNN](rnn/README.md)
   * [RNN Overview](rnn/rnn-overview.md)
+  * [Data passing to RNN](rnn/data-passing-to-rnn.md)
+  * [Types of RNN](rnn/types-of-rnn.md)
 * [Interview Questions](interview-questions.md)
