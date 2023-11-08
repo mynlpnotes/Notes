@@ -28,3 +28,7 @@
 7. **Difference between fit and fit\_transform?**
 8. **When do we use fit\_predict method?**
 9. **What is the difference between normalization and standardization?**
+10. **Why LSTM RNN instead of RNN?**
+
+* Vanishing gradient problem/Dead neuron
+* The context info

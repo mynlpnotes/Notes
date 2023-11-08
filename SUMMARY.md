@@ -32,5 +32,7 @@
   * [Types of RNN](rnn/types-of-rnn.md)
   * [Forward Propagation](rnn/forward-propagation.md)
   * [Back Propagation](rnn/back-propagation.md)
-* [LSTM](lstm.md)
+* [LSTM](lstm/README.md)
+  * [Overview](lstm/overview.md)
+  * [Understanding LSTM ](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [Interview Questions](interview-questions.md)
