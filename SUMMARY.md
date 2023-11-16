@@ -42,3 +42,4 @@
   * [Biasness and Limitations of Transformers](transformers/biasness-and-limitations-of-transformers.md)
   * [Different types of Transformer Models](transformers/different-types-of-transformer-models.md)
   * [Pipelines](transformers/pipelines.md)
+  * [Models](transformers/models.md)
