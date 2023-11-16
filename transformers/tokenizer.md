@@ -61,4 +61,22 @@ model(
     torch.tensor(batch_id), 
     attention_mask=torch.tensor(attention_mask)
     ).logits
+
+# Padding
+# This takes care of attention mask as well
+model_inputs = tokenizer(example, padding="longest")
+# Longest sequence which the model can take
+model_inputs = tokenizer(example, padding="max_length")
+# Specify max length
+model_inputs = tokenizer(example, padding="max_length", max_length=9)
+# Truncation, here since we not specified anythign so it will take as per 
+# the max lenght of the model
+model_inputs = tokenizer(example, truncation=True)
+# Truncate above 5 length
+# in classification/sentiment analysis we can go for truncation as we 
+# dont need to read the entire text, from start also we can come to know
+# the sentiment
+model_inputs = tokenizer(example, truncation=True, max_length=5)
+
+model_inputs = tokenizer(example, padding=True, return_tensors='pt')
 ```
