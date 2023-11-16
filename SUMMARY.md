@@ -45,3 +45,4 @@
   * [Models](transformers/models.md)
   * [Tokenizer](transformers/tokenizer.md)
   * [Pre Processing and Training](transformers/pre-processing-and-training.md)
+  * [Login and Sharing](transformers/login-and-sharing.md)
