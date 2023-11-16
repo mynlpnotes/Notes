@@ -12,4 +12,4 @@
 *
 
     <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-* In setting, we can also generate tokens. We can create an API and control access using tokens
+* In settings, we can also generate tokens. We can create an API and control access using tokens

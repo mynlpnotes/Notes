@@ -38,3 +38,6 @@
 * [Interview Questions](interview-questions.md)
 * [Transformers](transformers/README.md)
   * [Hugging face overview](transformers/hugging-face-overview.md)
+  * [Basics](transformers/basics.md)
+  * [Biasness and Limitations of Transformers](transformers/biasness-and-limitations-of-transformers.md)
+  * [Different types of Transformer Models](transformers/different-types-of-transformer-models.md)
