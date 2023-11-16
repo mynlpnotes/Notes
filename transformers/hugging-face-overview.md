@@ -1,0 +1,15 @@
+# Hugging face overview
+
+* Huggingface.co
+* Can interact with model using inference API
+* In transformers section we can get models
+* In datasets, we can use and share datasets
+* In Hub we can store our APIs
+*
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+* Different types of available model:
+*
+
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+* In setting, we can also generate tokens. We can create an API and control access using tokens
