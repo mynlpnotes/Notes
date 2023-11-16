@@ -44,3 +44,4 @@
   * [Pipelines](transformers/pipelines.md)
   * [Models](transformers/models.md)
   * [Tokenizer](transformers/tokenizer.md)
+  * [Pre Processing and Training](transformers/pre-processing-and-training.md)
