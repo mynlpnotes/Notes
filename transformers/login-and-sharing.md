@@ -5,6 +5,7 @@
 ```python
 git config --global user.name "c17hawke"
 git config --global user.email "sunny.c17hawke@gmail.com"
+git lfs install
 
 from huggingface_hub import notebook_login
 notebook_login()
