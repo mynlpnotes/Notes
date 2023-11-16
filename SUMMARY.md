@@ -43,3 +43,4 @@
   * [Different types of Transformer Models](transformers/different-types-of-transformer-models.md)
   * [Pipelines](transformers/pipelines.md)
   * [Models](transformers/models.md)
+  * [Tokenizer](transformers/tokenizer.md)
