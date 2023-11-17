@@ -32,3 +32,14 @@
 
 * Vanishing gradient problem/Dead neuron
 * The context info
+
+11. **Sparse matrix:**
+
+```python
+from scipy.sprase import csr_matrix
+
+a = csr_matrix(matrix)
+It will store only the locations of 1
+
+a.todense() --> to convert back to dense matrix
+```
