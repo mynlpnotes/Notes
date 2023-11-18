@@ -39,6 +39,8 @@
   * [Overview](lstm/overview.md)
   * [Article - Understanding LSTM](lstm/article-understanding-lstm.md)
   * [LSTM](lstm/lstm.md)
+  * [Architecture](lstm/architecture.md)
+  * [Equations](lstm/equations.md)
 * [Encoder Decoder](encoder-decoder/README.md)
   * [Introduction](encoder-decoder/introduction.md)
 * [Interview Questions](interview-questions.md)
