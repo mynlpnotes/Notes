@@ -13,9 +13,9 @@
 
 3. **What is this distribution?**
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Pareto can be converted to normal distribution using Box Cox transform
 
@@ -24,7 +24,7 @@
 * Q-Q Plots
 
 5. **What is standard normal distribution?**
-6. **What is the relations between mean, median and mode in below distribution?**![](<.gitbook/assets/image (3).png>)
+6. **What is the relations between mean, median and mode in below distribution?**![](<.gitbook/assets/image (3) (1).png>)
 7. **Difference between fit and fit\_transform?**
 8. **When do we use fit\_predict method?**
 9. **What is the difference between normalization and standardization?**
