@@ -32,6 +32,7 @@
   * [Example](rnn/example.md)
   * [Data passing to RNN](rnn/data-passing-to-rnn.md)
   * [Types of RNN](rnn/types-of-rnn.md)
+  * [Different Configurations](rnn/different-configurations.md)
   * [Forward Propagation](rnn/forward-propagation.md)
   * [Back Propagation](rnn/back-propagation.md)
   * [Equations](rnn/equations.md)
