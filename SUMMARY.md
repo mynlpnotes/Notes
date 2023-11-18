@@ -1,9 +1,8 @@
 # Table of contents
 
-* [Encoder Decoder](README.md)
-  * [RNN Overview](<Encoder Decoder/Overview.md>)
-* [Introduction](Introduction/README.md)
+* [Introduction](README.md)
   * [Introduction](Introduction/Introduction.md)
+  * [Real life example of PCA](introduction/real-life-example-of-pca.md)
 * [Text Pre Processing](text-pre-processing/README.md)
   * [Tokenization](text-pre-processing/tokenization.md)
   * [Stopwords](text-pre-processing/stopwords.md)
@@ -38,7 +37,10 @@
   * [Equations](rnn/equations.md)
 * [LSTM](lstm/README.md)
   * [Overview](lstm/overview.md)
-  * [Understanding LSTM ](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  * [Article - Understanding LSTM](lstm/article-understanding-lstm.md)
+  * [LSTM](lstm/lstm.md)
+* [Encoder Decoder](encoder-decoder/README.md)
+  * [Introduction](encoder-decoder/introduction.md)
 * [Interview Questions](interview-questions.md)
 * [Transformers](transformers/README.md)
   * [Hugging face overview](transformers/hugging-face-overview.md)
