@@ -33,3 +33,16 @@
 *
 
     <figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+
+**Feedback concept:**
+
+*
+
+    <figure><img src="../.gitbook/assets/image (31).png" alt="" width="375"><figcaption></figcaption></figure>
+*
+
+    <figure><img src="../.gitbook/assets/image (32).png" alt="" width="375"><figcaption></figcaption></figure>
+* Applicable for multiple neurons also
+*
+
+    <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
