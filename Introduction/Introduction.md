@@ -1,5 +1,10 @@
 # Introduction
 
+### Introduction to NLP:
+
+* Subfield of linguistics, computer science and AI concerned with the interactions between computers and human language
+* In particular how to program computers to process and analyze large amounts of natural language data
+
 ### Pre-requisities to learn NLP:
 
 * Pythom

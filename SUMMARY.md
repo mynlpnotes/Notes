@@ -2,6 +2,11 @@
 
 * [Introduction](README.md)
   * [Introduction](Introduction/Introduction.md)
+  * [NLP Tasks](introduction/nlp-tasks.md)
+  * [Difficulty level](introduction/difficulty-level.md)
+  * [Approaches to NLP](introduction/approaches-to-nlp.md)
+  * [Why is NLP challening](introduction/why-is-nlp-challening.md)
+  * [End to End NLP pipeline](introduction/end-to-end-nlp-pipeline.md)
   * [Real life example of PCA](introduction/real-life-example-of-pca.md)
 * [Text Pre Processing](text-pre-processing/README.md)
   * [Tokenization](text-pre-processing/tokenization.md)
