@@ -5,7 +5,7 @@
 *
 
     <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
-* In Left, if we give sequential data, it will not remember the context
+* In Right, if we give sequential data, it will not remember the context
 * In RNN, we have a feedback mechanism, to make it remember things
 
 **Chatbot example:**
