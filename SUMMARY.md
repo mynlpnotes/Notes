@@ -46,6 +46,7 @@
   * [LSTM](lstm/lstm.md)
   * [Architecture](lstm/architecture.md)
   * [Equations](lstm/equations.md)
+  * [Behavior of network over time](lstm/behavior-of-network-over-time.md)
 * [Encoder Decoder](encoder-decoder/README.md)
   * [Introduction](encoder-decoder/introduction.md)
 * [Interview Questions](interview-questions.md)
