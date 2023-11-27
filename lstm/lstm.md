@@ -23,3 +23,4 @@
 * We are getting output at different time instances from RNN/LSTM
 * We might require this to be passed to an ANN
 * For this we need to use tf.keras.TimeDistributed(tf.keras.layers.Dense())
+* it will wait for different timestamps and then it will take input and pass it to ANN
