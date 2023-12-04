@@ -16,7 +16,7 @@
 * C(t-1) traverses the network from L to R, it forgets some memory or information with forget gate and adds new memory at input gate
 * C(t-1) \* f(t), if f(t) = 0.5 then it means forgetting, f(t) can be between 0 and 1
 * Short term information – h(t)
-*   A copy of c(t) is transferred to tanh function to tanh function to output state which produces short term memory, h(t) and output y(t)
+*   A copy of c(t) is transferred to tanh function to output state which produces short term memory, h(t) and output y(t)
 
     C(t) à tanh(-1,1) \* sigma(0,1) à h(t)
 *
@@ -40,3 +40,4 @@
 *
 
     <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+* FCs are trained to learn what to forget and what to remember

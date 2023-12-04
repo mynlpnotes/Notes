@@ -60,3 +60,6 @@
   * [Tokenizer](transformers/tokenizer.md)
   * [Pre Processing and Training](transformers/pre-processing-and-training.md)
   * [Login and Sharing](transformers/login-and-sharing.md)
+* [DialogFlow](dialogflow/README.md)
+  * [Chatbot Overview](dialogflow/chatbot-overview.md)
+  * [Types of chatbots](dialogflow/types-of-chatbots.md)
