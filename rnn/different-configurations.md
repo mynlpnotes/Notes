@@ -16,10 +16,18 @@
 
 *
 
-    <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 *
 
     <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 *
 
     <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+
+4.
+
+*
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+* Can be used in language translation
+* Instead of taking any output in encoder, it is passed to decoder, where it generates output
