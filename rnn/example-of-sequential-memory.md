@@ -7,7 +7,7 @@
 * That means sequential data is easier to remember
 * RNNs are abstract concept of sequential memory
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Depending on the speed of car, we need to decide whether we should decrease the speed or change the lane
 * For this we need to understand where the car was at t-1 and where it is at t

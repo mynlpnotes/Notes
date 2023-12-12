@@ -23,10 +23,10 @@
 
 *
 
-    <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 * In backpropagation Wx,Wy and bias will be updated
 * Suppose it predicted E instead of D, it will backpropagate Wx, Wy and bias and then at previous time, it will update Wx ,Wy and bias and so on
 * If we stack layers then it becomes deep RNN
 *
 
-    <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>

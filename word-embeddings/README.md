@@ -1,6 +1,6 @@
 # Word Embeddings
 
-* Techniques which converts words into vectors
+* Techniques which converts words into numbers/vectors
 * 2 Types
 
 1. Based on count or frequency - BOW, TF-IDF, One hot encoding
