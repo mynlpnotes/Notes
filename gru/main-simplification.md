@@ -1,6 +1,6 @@
 # Main Simplification
 
-1\.      Both states merged into a single vector
+1\.      Both states vectors merged into a single vector
 
 2\.      Single gate controller z(t) controls – input gate and forget gate
 

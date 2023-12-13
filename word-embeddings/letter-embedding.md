@@ -1,8 +1,8 @@
 # Letter Embedding
 
-* Dataset à Million headlines which contains headlines of news
+* Dataset -> Million headlines which contains headlines of news
 * We will predict what is going to be the next letter
-* Today is a beautiful \_   -- it will prediction about d and then a and then y
+* Today is a beautiful \_   -- it will prediction d and then a and then y
 * We will be having an embedding layer
 * We will be passing letters to it and it will give vectors of all the letters
 * This will be passed into dense layer and then we apply softmax at the end and you will tell what will the probability for the next word

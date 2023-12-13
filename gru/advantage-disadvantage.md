@@ -6,7 +6,7 @@
 
 * Use conv1D to shorten the sequences
 * Here it’s just a 1D array over which we need to convolve
-*
+*   If sequence is of 100, filter = 4, padding = 0, then it will be 49 timestamps
 
     <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
