@@ -72,3 +72,7 @@
 * [DialogFlow](dialogflow/README.md)
   * [Chatbot Overview](dialogflow/chatbot-overview.md)
   * [Types of chatbots](dialogflow/types-of-chatbots.md)
+  * [Use of chatbot](dialogflow/use-of-chatbot.md)
+  * [Examples of chatbot](dialogflow/examples-of-chatbot.md)
+  * [What is Google Dialogflow](dialogflow/what-is-google-dialogflow.md)
+  * [Creating Account](dialogflow/creating-account.md)
