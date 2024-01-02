@@ -29,7 +29,7 @@
   * [Label Encoder](word-embeddings/label-encoder.md)
   * [Letter Embedding](word-embeddings/letter-embedding.md)
   * [Letter Embedding- Code](word-embeddings/letter-embedding-code.md)
-  * [Text Generation](word-embeddings/text-generation.md)
+  * [Code - Text Generation](word-embeddings/code-text-generation.md)
 * [Similarity Measures](similarity-measures/README.md)
   * [Jaccard Similarity](similarity-measures/jaccard-similarity.md)
   * [Euclidean Distance](similarity-measures/euclidean-distance.md)
