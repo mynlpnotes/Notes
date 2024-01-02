@@ -53,7 +53,9 @@ dataset = sequences.map(split_input_target)
 # and tries to predict the index for "i" as the next character. 
 # At the next timestep, it does the same thing but the RNN considers 
 # the previous step context in addition to the current input character
-
+# If we keep buffer size = 1000, it will keep 1000 records in memory(RAM), for training
+# it will pick randomly from this 1000, and after a record is picked up, it will
+# be replaced with data from local, so speed increases
 dataset = dataset.shuffle(Config.BUFFER_SIZE).batch(Config.BATCH_SIZE, drop_remainder=True)
 
 # Build the model
@@ -61,6 +63,8 @@ dataset = dataset.shuffle(Config.BUFFER_SIZE).batch(Config.BATCH_SIZE, drop_rema
 # will map the numbers of each character to a vector with embedding_dim dimensions
 # Output of embedding will be passed to GRU
 # Output of each GRU will be passed to Dense layer
+# If retuen sequence = True, it will take input and give output
+# if false,then it will take all inputs and give output at the end
 def build_model(vocab_size, embedding_dim, rnn_units, batch_size):
     model = tf.keras.Sequential([
         tf.keras.layers.Embedding(vocab_size, embedding_dim,
@@ -95,6 +99,8 @@ for input_example_batch, target_example_batch in dataset.take(1):
 sampled_indices = tf.random.categorical(example_batch_predictions[0], num_samples=1)
 sampled_indices = tf.squeeze(sampled_indices,axis=-1).numpy()
 
+# print('Hello/nHi') -- This will print in 2 lines
+# print(repr('Hello/nHi')) -- Hello/nHi
 print("Input: \n", repr("".join(idx2char[input_example_batch[0]])))
 print("Next Char Predictions: \n", repr("".join(idx2char[sampled_indices ])))
 # Input: 
