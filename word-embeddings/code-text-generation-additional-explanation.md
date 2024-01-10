@@ -16,7 +16,9 @@
 
 * If return sequence = True, it will take input and give output
 * If return sequence = False, then it will take all the inputs and give output at the end
-* \--------Add image from 41:00
+*
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Stateful RNN:**
 
@@ -43,3 +45,33 @@ When we save the checkpoints, we are not saving the architecture, we are saving 
 * If low temperature, then it means more predictable
 * If high temperature, then more surprising text
 
+
+
+* &#x20;predicted\_id = tf.random.categorical(predictions, num\_samples=1) -> \[\[3]] \[\[3]]
+* &#x20;predicted\_id = tf.random.categorical(predictions, num\_samples=1)\[-1] -> \[3] \[3]
+* &#x20;predicted\_id = tf.random.categorical(predictions, num\_samples=1)\[-1,0].numpy()
+* If prediction = \[1,2,3,4] -> Output mostly 1,2,3,4
+* If prediction = \[1,2,3,4,55] -> Output mostly 4th index
+* If prediction = \[1,2,3,4,55,56] -> Output mostly 4th or 5th index
+* If prediction = \[1,2,3,4,55,100] -> Output mostly 6th index
+* If prediction = \[1,2,3,4,55,100,101] -> Output mostly 6th and 7th index
+* If prediction = \[1,2,3,4,55,100,101,200] -> Output mostly 8th index
+* if we use softmax then it will give output with the highest probability but sometimes even the nearby values can be right, so we use this code
+
+
+
+*
+
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+* Lets say start sequence is ROMEO
+* Our model takes 1 character input and gives the probability of 65 values
+* We 1st convert input into array of index of characters of the input
+* In 2nd line we are expanding the dimension, because we normally pass batch, but here we will be passing single values
+* We dividing logit values by temperature, and so the difference between the values will reduce
+* So if we apply random.categorical then chance of probabily distribution of values will increase
+* It will give surprising text
+* If we use temp = 0.5 then difference will increase
+
+
+
+* Encoder/Decoder can be used for translation/ summarization

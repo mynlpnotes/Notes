@@ -4,7 +4,7 @@
 
 *
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 * In Right, if we give sequential data, it will not remember the context
 * In RNN, we have a feedback mechanism, to make it remember things
 
@@ -15,7 +15,7 @@
 * At t = 1, we pass time and also previous information and so on
 *
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 * There is only a single network, and at different times, we will pass input sequentially
 * If this is a longer sentence:
 *
