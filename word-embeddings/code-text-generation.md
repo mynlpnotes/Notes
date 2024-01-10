@@ -139,7 +139,8 @@ def generate_text(model, start_string):
     num_generate = 1000
     # Converting our start string to numbers (vectorizing)
     input_eval = [char2idx[s] for s in start_string]
-    input_eval = tf.expand_dims(input_eval, 0)
+    input_eval = tf.expand_dims(input_eval, 0) 
+    # Expand dimension as we want to pass 2 dimension array [] --> [1,]
     # Empty string to store our results
     text_generated = []
     # Low temperature results in more predictable text.
@@ -147,7 +148,7 @@ def generate_text(model, start_string):
     # Experiment to find the best setting.
     temperature = 1.0
     # Here batch size == 1
-    model.reset_states()
+    model.reset_states()# Reset the states if any
     for i in range(num_generate):
         predictions = model(input_eval)
         # remove the batch dimension
