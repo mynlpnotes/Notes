@@ -8,6 +8,10 @@
 * In Right, if we give sequential data, it will not remember the context
 * In RNN, we have a feedback mechanism, to make it remember things
 
+
+
+***
+
 **Chatbot example:**
 
 * What time is it?                Asking for time
@@ -20,11 +24,15 @@
 * If this is a longer sentence:
 *
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 * If we see the diagram, by t = 4, already the context of what is very little
 * After the timestamp of 5, if we start putting the next words, then it will remember the last 5 words and start forgetting the previous input
 * This is known as short term memory problem
-* RNN suffers this from issue
+* RNN suffers from this issue
+
+
+
+***
 
 &#x20;**Time series:**
 
@@ -33,4 +41,4 @@
 *
 
     <figure><img src="../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
-* This can also be solved using RNN or LSRM
+* This can also be solved using RNN or LSTM

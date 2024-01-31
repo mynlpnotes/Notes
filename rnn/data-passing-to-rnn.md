@@ -1,6 +1,6 @@
 # Data passing to RNN
 
-Sentiment Analysis:
+**Sentiment Analysis:**
 
 * Sentence: The food is good, Output: Positive
 * This can be written as \<x11[^1] x12 x13 x14>

@@ -18,7 +18,7 @@
 * If return sequence = False, then it will take all the inputs and give output at the end
 *
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Stateful RNN:**
 
@@ -62,7 +62,7 @@ When we save the checkpoints, we are not saving the architecture, we are saving 
 
 *
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Lets say start sequence is ROMEO
 * Our model takes 1 character input and gives the probability of 65 values
 * We 1st convert input into array of index of characters of the input
