@@ -46,6 +46,7 @@
   * [Back Propagation](rnn/back-propagation.md)
   * [Equations](rnn/equations.md)
 * [Bi RNN](bi-rnn.md)
+* [Bi RNN](bi-rnn-1.md)
 * [LSTM](lstm/README.md)
   * [Overview](lstm/overview.md)
   * [Article - Understanding LSTM](lstm/article-understanding-lstm.md)
