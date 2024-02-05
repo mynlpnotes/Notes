@@ -40,5 +40,5 @@
 * &#x20;It is also sequential data
 *
 
-    <figure><img src="../.gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 * This can also be solved using RNN or LSTM

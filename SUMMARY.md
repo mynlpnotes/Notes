@@ -62,7 +62,7 @@
   * [Equations](gru/equations.md)
   * [Advantage/Disadvantage](gru/advantage-disadvantage.md)
 * [Encoder Decoder](encoder-decoder/README.md)
-  * [Introduction](encoder-decoder/introduction.md)
+  * [Neural Machine Translation](encoder-decoder/neural-machine-translation.md)
 * [Interview Questions](interview-questions.md)
 * [Transformers](transformers/README.md)
   * [Hugging face overview](transformers/hugging-face-overview.md)

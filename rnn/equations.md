@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src="../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 *   &#x20;      &#x20;
 
     <figure><img src="../.gitbook/assets/image (7) (2).png" alt="" width="563"><figcaption></figcaption></figure>
