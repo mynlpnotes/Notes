@@ -38,7 +38,7 @@
 * [RNN](rnn/README.md)
   * [RNN Overview](rnn/rnn-overview.md)
   * [Example of Sequential Memory](rnn/example-of-sequential-memory.md)
-  * [Example](rnn/example.md)
+  * [Short term memory problem](rnn/short-term-memory-problem.md)
   * [Data passing to RNN](rnn/data-passing-to-rnn.md)
   * [Types of RNN](rnn/types-of-rnn.md)
   * [Different Configurations](rnn/different-configurations.md)
