@@ -9,11 +9,16 @@
 * Encode the English into some numbers/vectors
 * And then decode it into some other language
 * One to one mapping between the languages is not possible
-* ![](../.gitbook/assets/image.png)
+*
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 * In English it is 3 words, If we decode then this will be 4 words in French
 * Similarly for hindi as well
-* ![](<../.gitbook/assets/image (1).png>)
+*
+
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * Embedding layer will convert numbers into vectors
+* This word vectors we will feed to RNN
 * We have reversed the input sequence here
 * We are not using any output here, we will be using last value here and passing it to decoder
 * We have embedding lookup for target language
@@ -23,7 +28,9 @@
 * Softmax will give probability of sentence
 * In the prediction there was 1 wrong value
 * Encoding for English and hindi will be different
-* ![](<../.gitbook/assets/image (2).png>)
+*
+
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 * At x(0) there is no previous input, its output will go as hidden state to x(1)
 * Embedding of drink and hidden state will go to 2nd RNN
 * Its hidden state will go to next RNN and so on
@@ -33,7 +40,9 @@
 * This decoded value will be passed to the next RNN along with the next information
 * \<sos> and encoded value of I, will give decoded value as main
 * Embedding lookup will be randomly generated
-* ![](<../.gitbook/assets/image (3).png>)
+*
+
+    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 * (in this diagram it is not group of RNN, it is rolled over time)
 * We compared target and predicted
 * There are only 2 mistakes
