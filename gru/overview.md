@@ -4,7 +4,7 @@
 
 \-        2014
 
-\-        ![](<../.gitbook/assets/image (2) (1) (1).png>)
+\-        ![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 \-        No long term state
 
@@ -18,6 +18,6 @@
 
 \-       &#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \-        Simplified version of LSTM

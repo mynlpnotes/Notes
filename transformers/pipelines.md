@@ -60,4 +60,4 @@ Output:
 tensor([1, 1])
 ```
 
-<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption><p>Output of logits</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1) (1).png" alt=""><figcaption><p>Output of logits</p></figcaption></figure>

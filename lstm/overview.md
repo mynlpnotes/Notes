@@ -6,7 +6,7 @@
 * 4 main sections
 *
 
-    <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Cross is known as point-wise operation
 * Plut means point-wise addition
 * The cross between ct-1 and ft is known as memory cell
