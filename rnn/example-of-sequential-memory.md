@@ -5,7 +5,7 @@
 * But if we reverse it, then it will be little difficult to remember
 * If we apply RNN here, we will pass this data and then try to predict the next letter
 * That means sequential data is easier to remember
-* RNNs are abstract concept of sequential memory
+* <mark style="color:purple;background-color:green;">**RNNs are abstract concept of sequential memory**</mark>
 
 <figure><img src="../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption></figcaption></figure>
 

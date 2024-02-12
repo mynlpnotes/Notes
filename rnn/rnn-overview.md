@@ -14,7 +14,7 @@
 
 **RNN:**
 
-* Great for modelling sequential data
+* <mark style="color:purple;background-color:green;">**Great for modelling sequential data**</mark>
 * Speech, audio, text etc
 * Use case – speech recognition, language translation, stock prediction etc
 
@@ -34,14 +34,14 @@
 
 **Basic architecture of RNN:**
 
-* Output is sent back to NN
+* <mark style="color:purple;background-color:green;">**Output is sent back to NN**</mark>
 *
 
     <figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt="" width="327"><figcaption></figcaption></figure>
 *
 
     <figure><img src="../.gitbook/assets/image (1) (1) (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-* Output is given to the next timestamp of NN
+* <mark style="color:purple;background-color:green;">**Output is given to the next timestamp of NN**</mark>
 *
 
     <figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
