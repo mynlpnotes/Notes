@@ -8,7 +8,7 @@
 * For such tasks we need DL techniques like RNN, LSTM , RNN, Transformers and BERT
 * RNN is also used for time series data
 
-
+The reason why RNN is called recurrent neural network is that the current output of a sequence is also related to the previous output.
 
 ***
 

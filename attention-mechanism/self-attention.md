@@ -3,7 +3,7 @@
 * This process of doing re-weighing is knows as self-attention
 *
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. DOT PRODUCT - Of V1, V2... with themselves
 2. This gives some scores, which is passed to normalization - S31, S32, S33, S34
