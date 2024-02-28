@@ -98,3 +98,6 @@
 
 * [Lesson 1: Introduction to Attention and Language Models](introduction-to-transformer-models-for-nlp/lesson-1-introduction-to-attention-and-language-models/README.md)
   * [1.1 A Brief History of NLP](introduction-to-transformer-models-for-nlp/lesson-1-introduction-to-attention-and-language-models/1.1-a-brief-history-of-nlp.md)
+  * [1.2 Pay Attention with Attention](introduction-to-transformer-models-for-nlp/lesson-1-introduction-to-attention-and-language-models/1.2-pay-attention-with-attention.md)
+  * [1.3 Encoder and Decoder Architecture](introduction-to-transformer-models-for-nlp/lesson-1-introduction-to-attention-and-language-models/1.3-encoder-and-decoder-architecture.md)
+  * [1.4 How Language Model Looks at text](introduction-to-transformer-models-for-nlp/lesson-1-introduction-to-attention-and-language-models/1.4-how-language-model-looks-at-text.md)

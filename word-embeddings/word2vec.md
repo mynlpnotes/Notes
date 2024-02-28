@@ -3,7 +3,7 @@
 * Feature representation
 *
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * if we compare the cosine similarity between King - Man + Woman and Queen then it will be similar
 * In previous techniques, semantic meaning is not captured and sparse matrix was getting captured
 * We want that for similar words the vectors should also be similar
@@ -16,7 +16,7 @@
 * Each word here is represent as 4X1 vector
 *
 
-    <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * We can also plot them and every word can be represented as a point in space
 * Angle between words can be taken as their similarity (cosine similarity)
 * We can also cluster similar words
@@ -27,4 +27,4 @@
 * Higher dimension capture more details about relationship but it will mean more elements to learn/update, which will lead to slow training
 *
 
-    <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>

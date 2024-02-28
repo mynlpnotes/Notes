@@ -3,7 +3,7 @@
 * This process of doing re-weighing is knows as self-attention
 *
 
-    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. DOT PRODUCT - Of V1, V2... with themselves
 2. This gives some scores, which is passed to normalization - S31, S32, S33, S34
@@ -28,7 +28,7 @@
 * So if Vi is 1XK then M will be KXK so output will be 1XK
 * Representing the same in a different manner       &#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * We are doing linear transformation by multiplying vector with matrices
 * DOT product of query and keys is done after that
@@ -40,7 +40,7 @@
 * We can also stack attention blocks
 * In operations like NER,
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * To extract information like this to get name, place, org we need attention mechanism
 * In backpropagation, the context Y1… will not be correct, so it backpropagate and the randomly initialized matrices will be updated
@@ -48,12 +48,12 @@
 * <mark style="color:purple;">**Some times one matrix might not be enough, so we can have multi attention mechanism (AM1 for name, AM2 for place, AM3 for Org)**</mark>
 *
 
-    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 * This are called heads
 * If we have 3 different matrices
 * Then we will get 3 different scores and 3 different weight matrixes
 * After that we concatenate and dense
 * This is known as muti head attention
 * This multi head attention blocks can also be stacked
-* ![](<../.gitbook/assets/image (8).png>)
+* ![](<../.gitbook/assets/image (8) (1).png>)
 * In his way, we can get more context
