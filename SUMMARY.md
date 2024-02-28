@@ -93,3 +93,8 @@
   * [Examples of chatbot](dialogflow/examples-of-chatbot.md)
   * [What is Google Dialogflow](dialogflow/what-is-google-dialogflow.md)
   * [Creating Account](dialogflow/creating-account.md)
+
+## Introduction to Transformers for NLP
+
+* [Introduction to Attention and Language Models](introduction-to-transformers-for-nlp/introduction-to-attention-and-language-models/README.md)
+  * [A brief History of NLP](introduction-to-transformers-for-nlp/introduction-to-attention-and-language-models/a-brief-history-of-nlp.md)
