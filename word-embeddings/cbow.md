@@ -35,11 +35,11 @@ Training steps:
 * This we will be giving to ANN
 *
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Softmax used for multi class classification
 * During forward propagation loss will be calculated and in backward propagation weights will be updated
 *
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * The weights of the nodes which are connecting from hidden layer to the output neuron will be the vectors of the word
 * Window size = No. of neurons in hidden layer = No. of dimensions used for vectors

@@ -104,3 +104,4 @@
 * [Lesson 2: How transformers use attention to process text](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/README.md)
   * [2.1 Introduction to Transformers](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/2.1-introduction-to-transformers.md)
   * [2.2 Scaled Dot Product Attention](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/2.2-scaled-dot-product-attention.md)
+  * [2.3 Multi Headed Attention](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/2.3-multi-headed-attention.md)
