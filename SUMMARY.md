@@ -101,3 +101,6 @@
   * [1.2 Pay Attention with Attention](introduction-to-transformer-models-for-nlp/lesson-1-introduction-to-attention-and-language-models/1.2-pay-attention-with-attention.md)
   * [1.3 Encoder and Decoder Architecture](introduction-to-transformer-models-for-nlp/lesson-1-introduction-to-attention-and-language-models/1.3-encoder-and-decoder-architecture.md)
   * [1.4 How Language Model Looks at text](introduction-to-transformer-models-for-nlp/lesson-1-introduction-to-attention-and-language-models/1.4-how-language-model-looks-at-text.md)
+* [Lesson 2: How transformers use attention to process text](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/README.md)
+  * [2.1 Introduction to Transformers](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/2.1-introduction-to-transformers.md)
+  * [2.2 Scaled Dot Product Attention](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/2.2-scaled-dot-product-attention.md)
