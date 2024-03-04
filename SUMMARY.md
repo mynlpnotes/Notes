@@ -105,3 +105,7 @@
   * [2.1 Introduction to Transformers](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/2.1-introduction-to-transformers.md)
   * [2.2 Scaled Dot Product Attention](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/2.2-scaled-dot-product-attention.md)
   * [2.3 Multi Headed Attention](introduction-to-transformer-models-for-nlp/lesson-2-how-transformers-use-attention-to-process-text/2.3-multi-headed-attention.md)
+* [Lesson 3: Transfer Learning](introduction-to-transformer-models-for-nlp/lesson-3-transfer-learning/README.md)
+  * [3.1 Introduction to Transfer Learning](introduction-to-transformer-models-for-nlp/lesson-3-transfer-learning/3.1-introduction-to-transfer-learning.md)
+  * [3.2 Introduction to PyTorch](introduction-to-transformer-models-for-nlp/lesson-3-transfer-learning/3.2-introduction-to-pytorch.md)
+  * [3.3 Fine tuning Transformers with PyTorch](introduction-to-transformer-models-for-nlp/lesson-3-transfer-learning/3.3-fine-tuning-transformers-with-pytorch.md)
