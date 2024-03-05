@@ -7,4 +7,4 @@ Sentence: Please subscribe to channel
 * In Avgword2vec, all the corresponding dimension will get added and their average will get calculated
 *
 
-    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

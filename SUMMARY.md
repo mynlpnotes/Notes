@@ -109,3 +109,7 @@
   * [3.1 Introduction to Transfer Learning](introduction-to-transformer-models-for-nlp/lesson-3-transfer-learning/3.1-introduction-to-transfer-learning.md)
   * [3.2 Introduction to PyTorch](introduction-to-transformer-models-for-nlp/lesson-3-transfer-learning/3.2-introduction-to-pytorch.md)
   * [3.3 Fine tuning Transformers with PyTorch](introduction-to-transformer-models-for-nlp/lesson-3-transfer-learning/3.3-fine-tuning-transformers-with-pytorch.md)
+* [Lesson 4:NLU with BERT](introduction-to-transformer-models-for-nlp/lesson-4-nlu-with-bert/README.md)
+  * [4.1 Introduction to BERT](introduction-to-transformer-models-for-nlp/lesson-4-nlu-with-bert/4.1-introduction-to-bert.md)
+  * [4.2 Wordpiece Tokenization](introduction-to-transformer-models-for-nlp/lesson-4-nlu-with-bert/4.2-wordpiece-tokenization.md)
+  * [4.3 The many embeddings of BERT](introduction-to-transformer-models-for-nlp/lesson-4-nlu-with-bert/4.3-the-many-embeddings-of-bert.md)

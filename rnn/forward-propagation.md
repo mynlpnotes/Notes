@@ -3,7 +3,7 @@
 * Sentiment analysis: Many to One RNN
 *
 
-    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
     <figure><img src="../.gitbook/assets/image (10) (1) (1) (1).png" alt="" width="230"><figcaption></figcaption></figure>
