@@ -113,3 +113,5 @@
   * [4.1 Introduction to BERT](introduction-to-transformer-models-for-nlp/lesson-4-nlu-with-bert/4.1-introduction-to-bert.md)
   * [4.2 Wordpiece Tokenization](introduction-to-transformer-models-for-nlp/lesson-4-nlu-with-bert/4.2-wordpiece-tokenization.md)
   * [4.3 The many embeddings of BERT](introduction-to-transformer-models-for-nlp/lesson-4-nlu-with-bert/4.3-the-many-embeddings-of-bert.md)
+* [Lesson 5: Pre-Tuning and Fine-Tuning BERT](introduction-to-transformer-models-for-nlp/lesson-5-pre-tuning-and-fine-tuning-bert/README.md)
+  * [5.1 The Masked Language Modelling Task](introduction-to-transformer-models-for-nlp/lesson-5-pre-tuning-and-fine-tuning-bert/5.1-the-masked-language-modelling-task.md)
