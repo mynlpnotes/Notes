@@ -3,7 +3,7 @@
 * Feature representation
 *
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * if we compare the cosine similarity between King - Man + Woman and Queen then it will be similar
 * In previous techniques, semantic meaning is not captured and sparse matrix was getting captured
 * We want that for similar words the vectors should also be similar
