@@ -16,7 +16,7 @@
 * We need to train in such a way that w1, w4, w6 and w10 should be more
 *   &#x20;&#x20;
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In both the sentences, both the bank are having different meaning, which we get after reading the entire sentence
 * If sentence has bank and river then it means we are talking about a water body
 * If sentence has state, bank, india then it means we are talking about a financial institution
@@ -26,14 +26,14 @@
 * This weights are trainable
 *
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * We first encode the sentence – V1
 * Then apply re-weigh mechanism
 * This will contain better context information
 * We do dot product
 *
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * When we do dot product of 2 vectors, we get scalar – W11, W12….
 * After that we normalize them such that W11 +  W12 + W13 + W14 = 1
 * Similarly we do for V2.V1 also….

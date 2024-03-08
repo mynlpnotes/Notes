@@ -117,3 +117,8 @@
   * [5.1 The Masked Language Modelling Task](introduction-to-transformer-models-for-nlp/lesson-5-pre-tuning-and-fine-tuning-bert/5.1-the-masked-language-modelling-task.md)
   * [5.2 Next Sentence Prediction Task](introduction-to-transformer-models-for-nlp/lesson-5-pre-tuning-and-fine-tuning-bert/5.2-next-sentence-prediction-task.md)
   * [5.3 Fine Tuning BERT to solve NLP Problems](introduction-to-transformer-models-for-nlp/lesson-5-pre-tuning-and-fine-tuning-bert/5.3-fine-tuning-bert-to-solve-nlp-problems.md)
+* [Lesson 6: Hand-on BERT](introduction-to-transformer-models-for-nlp/lesson-6-hand-on-bert/README.md)
+  * [6.1 Flavors of BERT](introduction-to-transformer-models-for-nlp/lesson-6-hand-on-bert/6.1-flavors-of-bert.md)
+  * [6.2 BERT for Sequence Classification](introduction-to-transformer-models-for-nlp/lesson-6-hand-on-bert/6.2-bert-for-sequence-classification.md)
+  * [6.3 BERT for Token Classification](introduction-to-transformer-models-for-nlp/lesson-6-hand-on-bert/6.3-bert-for-token-classification.md)
+  * [6.4 BERT for QA](introduction-to-transformer-models-for-nlp/lesson-6-hand-on-bert/6.4-bert-for-qa.md)
