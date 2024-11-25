@@ -2,7 +2,7 @@
 
 ### Introduction to NLP:
 
-* Subfield of linguistics, computer science and AI concerned with the interactions between computers and human language
+* Subfield of linguistics, computer science and AI concerned with the <mark style="color:purple;background-color:purple;">**interactions between computers and human language**</mark>
 * In particular how to program computers to process and analyze large amounts of natural language data
 
 ### Pre-requisities to learn NLP:
@@ -37,7 +37,7 @@
 **Natural Language Processing:**
 
 * Understanding the pattern
-* Tools like nltk/spacy are not enough as things like context was missing
+* <mark style="color:purple;background-color:purple;">**Tools like nltk/spacy are not enough as things like context was missing**</mark>
 
 &#x20;     \-- e.g., bank of river and state bank of india
 
@@ -48,14 +48,3 @@
 * Then transformer came – BERT and GPT
 * Transformer resulted from paper – Attention is all you need
 * Initially research was more centric for English, now all languages are concentrated on. For e.g., google translate
-
-
-
-
-
-
-
-
-
-
-

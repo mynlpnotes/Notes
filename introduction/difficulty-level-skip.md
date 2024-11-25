@@ -1,4 +1,8 @@
-# Difficulty level
+---
+hidden: true
+---
+
+# Difficulty level - Skip
 
 Arranging from easy to hard
 

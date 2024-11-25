@@ -1,4 +1,8 @@
-# Why is NLP challening
+---
+hidden: true
+---
+
+# Why is NLP challening - Skip
 
 1. **Ambiguity:**
 

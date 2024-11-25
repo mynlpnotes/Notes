@@ -2,7 +2,7 @@
 
 1. **Heuristics:**
 
-* A program rooted in experience based riles or protocols capable of performing tasks quickly with proof of correctness
+* A program rooted in <mark style="color:purple;background-color:purple;">**experience based rules**</mark> or protocols capable of performing tasks quickly with proof of correctness
 * Example: regex to identify mail, telephone
 
 2. **ML:**
