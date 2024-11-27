@@ -1,6 +1,6 @@
 # N-grams
 
-Helps to form semantic meaning
+<mark style="color:purple;background-color:purple;">**Helps to form semantic meaning**</mark>
 
 Bigrams = 2, Trigrams = 3
 

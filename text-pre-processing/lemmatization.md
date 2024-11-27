@@ -1,19 +1,19 @@
 # Lemmatization
 
-* Convert the word, but here we will be getting meaningful word
-* it has entire dictionary of words using which it does it
-* Finally, final, finalized --> Final
+* <mark style="color:purple;background-color:purple;">**Convert the word, but here we will be getting meaningful word**</mark>
+* <mark style="color:purple;background-color:purple;">**it has entire dictionary of words using which it does it**</mark>
+* Finally, final, finalized -> Final
 
 ### Advantage:
 
-* Fast
+* <mark style="color:purple;background-color:purple;">**Get meaningful words**</mark>
 
 ### Disadvantage:
 
-* it is slow
+* <mark style="color:purple;background-color:purple;">**it is slow**</mark>
 
 ### Use Cases:
 
-* Text summarization
-* Language translation
-* chat bots
+* <mark style="color:purple;background-color:purple;">**Text summarization**</mark>
+* <mark style="color:purple;background-color:purple;">**Language translation**</mark>
+* <mark style="color:purple;background-color:purple;">**chat bots**</mark>

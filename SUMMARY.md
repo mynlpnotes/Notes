@@ -14,6 +14,7 @@
   * [Syntax, Semantics and Pragmatics](introduction/syntax-semantics-and-pragmatics.md)
   * [Real life example of PCA](introduction/real-life-example-of-pca.md)
 * [Text Pre Processing](text-pre-processing/README.md)
+  * [Text Cleaning](text-pre-processing/text-cleaning.md)
   * [Tokenization](text-pre-processing/tokenization.md)
   * [Stopwords](text-pre-processing/stopwords.md)
   * [Stemming](text-pre-processing/stemming.md)

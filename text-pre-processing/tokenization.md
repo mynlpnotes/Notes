@@ -2,7 +2,7 @@
 
 ### Tokenization:
 
-* Break sentence into words
+* <mark style="color:purple;background-color:purple;">**Break sentence into words**</mark>
 * If we are building a spam classifier
 * Dataset:
 
