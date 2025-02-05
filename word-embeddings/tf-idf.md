@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # TF-IDF
 
 * Term frequency - Inverse document frequency

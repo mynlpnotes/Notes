@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Basic Terminologies
 
 1. <mark style="color:purple;background-color:purple;">**Corpus: Collection of documents**</mark> -> \[D1,D2,D3....]

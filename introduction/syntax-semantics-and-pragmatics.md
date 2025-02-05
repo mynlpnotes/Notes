@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Syntax, Semantics and Pragmatics
 
 #### Study Notes: Syntax, Semantics, and Pragmatics

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # AvgWord2Vec
 
 Sentence: Please subscribe to channel

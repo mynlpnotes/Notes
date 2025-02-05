@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Types of RNN
 
 1. **One to One RNN:**

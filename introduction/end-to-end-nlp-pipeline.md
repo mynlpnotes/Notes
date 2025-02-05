@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # End to End NLP pipeline
 
 1. **Data acquisition:**

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Forward Propagation
 
 * Sentiment analysis: Many to One RNN

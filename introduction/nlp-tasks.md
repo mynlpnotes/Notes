@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # NLP Tasks
 
 1. <mark style="color:purple;background-color:purple;">**Language modelling:**</mark>

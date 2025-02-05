@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Different Configurations
 
 1. **Seq to Seq:**

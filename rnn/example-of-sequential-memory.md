@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Example of Sequential Memory
 
 * A B C D ……….Z

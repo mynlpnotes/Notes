@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Real life example of PCA
 
 *

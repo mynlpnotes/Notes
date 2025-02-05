@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Stemming
 
 * We find base/stem of the word

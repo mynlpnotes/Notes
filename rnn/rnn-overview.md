@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # RNN Overview
 
 * Till now for converting text to vectors, the most efficient way till now was word2vec and avgword2vec(Word embedding)

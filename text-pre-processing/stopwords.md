@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Stopwords
 
 Hey buddy I want to go to your house

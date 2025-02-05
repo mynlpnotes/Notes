@@ -1,9 +1,6 @@
 # Table of contents
 
-* [Word Tokenization](README.md)
-  * [BOW](embeddings/bow.md)
-  * [One Hot Encoding](embeddings/one-hot-encoding.md)
-* [Topics](topics.md)
+* [Topics](README.md)
 * [Introduction](<README (1).md>)
   * [Introduction](Introduction/Introduction.md)
   * [NLP Tasks](introduction/nlp-tasks.md)

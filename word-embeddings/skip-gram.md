@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Skip Gram
 
 * The input and output will get reversed

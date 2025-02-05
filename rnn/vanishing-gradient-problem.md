@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Vanishing Gradient Problem
 
 * The problem relates to updating wrec (weight recurring) – the weight that is used to connect the hidden layers to themselves in the unrolled temporal loop.

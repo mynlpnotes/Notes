@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Lemmatization
 
 * <mark style="color:purple;background-color:purple;">**Convert the word, but here we will be getting meaningful word**</mark>

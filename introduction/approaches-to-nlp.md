@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Approaches to NLP
 
 1. **Heuristics:**
