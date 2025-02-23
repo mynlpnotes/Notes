@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Code - Text Generation - Additional Explanation
 
 

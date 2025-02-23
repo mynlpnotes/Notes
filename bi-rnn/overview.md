@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Overview
 
 <figure><img src="../.gitbook/assets/image (41).png" alt="" width="210"><figcaption></figcaption></figure>

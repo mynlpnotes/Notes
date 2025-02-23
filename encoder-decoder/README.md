@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Encoder Decoder
 
 * This is not used now
